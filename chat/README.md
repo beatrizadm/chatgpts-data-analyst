@@ -7,15 +7,15 @@ Here is the chat history for each question and the screenshot in case the link b
 
 | Question  | Chat history | Screenshot |
 | ------------- | ------------- | ------------- |
-| Basic 1 | [Link](https://chatgpt.com/share/e633f860-46d9-4db3-ba7e-67b254061441) | [File](./file/descriptive-basic-1.pdf) |
-| Basic 2  | [Link](https://chatgpt.com/share/3f9713fd-c803-44cc-b299-e294b4ba8300) | [File](./file/descriptive-basic-2.pdf) |
-| Basic 3  | [Link](https://chatgpt.com/share/a896f343-83e5-4b70-bb54-9ca508cf9594) | [File](./file/descriptive-basic-3.pdf) |
-| Moderate 1  | [Link](https://chatgpt.com/share/edb495a8-77bf-4f1e-a387-7547383e8041) | [File](./file/descriptive-moderate-1.pdf) |
-| Moderate 2  | [Link](https://chatgpt.com/share/268e8e36-d3ef-4a83-b30c-e0ae66bc5fac) | [File](./file/descriptive-moderate-2.pdf) |
-| Moderate 3  | [Link](https://chatgpt.com/share/0b3c6917-d569-46ac-8390-4b1c3f1a1ec1) | [File](./file/descriptive-moderate-3.pdf) |
-| Challenging 1  | [Link](https://chatgpt.com/share/483e1f4f-adf2-4cbe-a1f5-e81be2760a72) | [File](./file/descriptive-challenging-1.pdf) |
-| Challenging 2  | [Link](https://chatgpt.com/share/bc67c755-f0f6-4919-95e1-0c149d8f799b) | [File](./file/descriptive-challenging-2.pdf) |
-| Challenging 3  | [Link](https://chatgpt.com/share/193f4692-8fbf-46d1-b9ab-5341266e0bdf) | [File](./file/descriptive-challenging-3.pdf) |
+| Basic 1 | [Link](https://chatgpt.com/share/e633f860-46d9-4db3-ba7e-67b254061441) | [File](./files/descriptive-basic-1.pdf) |
+| Basic 2  | [Link](https://chatgpt.com/share/3f9713fd-c803-44cc-b299-e294b4ba8300) | [File](./files/descriptive-basic-2.pdf) |
+| Basic 3  | [Link](https://chatgpt.com/share/a896f343-83e5-4b70-bb54-9ca508cf9594) | [File](./files/descriptive-basic-3.pdf) |
+| Moderate 1  | [Link](https://chatgpt.com/share/edb495a8-77bf-4f1e-a387-7547383e8041) | [File](./files/descriptive-moderate-1.pdf) |
+| Moderate 2  | [Link](https://chatgpt.com/share/268e8e36-d3ef-4a83-b30c-e0ae66bc5fac) | [File](./files/descriptive-moderate-2.pdf) |
+| Moderate 3  | [Link](https://chatgpt.com/share/0b3c6917-d569-46ac-8390-4b1c3f1a1ec1) | [File](./files/descriptive-moderate-3.pdf) |
+| Challenging 1  | [Link](https://chatgpt.com/share/483e1f4f-adf2-4cbe-a1f5-e81be2760a72) | [File](./files/descriptive-challenging-1.pdf) |
+| Challenging 2  | [Link](https://chatgpt.com/share/bc67c755-f0f6-4919-95e1-0c149d8f799b) | [File](./files/descriptive-challenging-2.pdf) |
+| Challenging 3  | [Link](https://chatgpt.com/share/193f4692-8fbf-46d1-b9ab-5341266e0bdf) | [File](./files/descriptive-challenging-3.pdf) |
 
 
 ## Diagnostic Analysis
